@@ -1,4 +1,4 @@
-package com.cib.qdzg.api;
+package com.cib.qdzg.api; // 导入包
 
 import com.cib.qdzg.entity.BankListWrapperEntity;
 import com.cib.qdzg.entity.CardBinBean;
